@@ -1,4 +1,4 @@
-一款优化Coze返回结果中的图片、语音和网址链接的chatgpt-on-wechat插件，包含以下功能：
+一款优化Coze返回结果中的图片、语音和网址链接的dow插件，包含以下功能：
 
 + 提取Coze（包括coze.com和coze.cn）返回的Markdown图片链接中的网址，并修改ReplyType为IMAGE_URL，以便CoW自动下载Markdown链接中的图片；
 + 提取Coze返回的包含 https://s.coze.cn/t/xxx 网址的Markdown链接中的图片网址，并修改ReplyType为IMAGE_URL，以便CoW自动下载Markdown链接中的图片；
